@@ -1,0 +1,15 @@
+*{
+    margin: ;
+    padding:0;
+    box-sizing: border-box;
+    font-family:'poppins',sans-serif;
+}
+
+body{
+background-color: azure;
+}
+
+h1{
+    font-family:'Times New Roman', Times, serif;
+    font-size:60px;
+}
